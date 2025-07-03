@@ -1,4 +1,4 @@
-# Password Generator App
+# Background Color Changer
 
 A Front-End app that can be used to change background colors. 
 
