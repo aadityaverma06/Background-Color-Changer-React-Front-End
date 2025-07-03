@@ -1,4 +1,4 @@
-# Background Color Changer
+# Background Color Changer App
 
 A Front-End app that can be used to change background colors. 
 
